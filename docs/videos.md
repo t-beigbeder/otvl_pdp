@@ -1,6 +1,6 @@
 ---
-template: actualites_index.html
-title: Actualités
+template: videos_index.html
+title: Videos
 ---
 <div markdown="1" class="row">
     <div class="col-12">
@@ -14,4 +14,4 @@ title: Actualités
 
 ou pas
 
-### Actualités
+### Historique des vidéos publiées
