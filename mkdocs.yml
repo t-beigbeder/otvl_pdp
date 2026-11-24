@@ -1,7 +1,7 @@
 site_name: Poésie à Poucharramet
 site_favicon: images/favicon.ico
 nav:
-  - qi-gong.md
+  - actualites.md
   - pratique.md
   - acces-adherents.md
   - a-propos.md
