@@ -8,7 +8,7 @@ title: Videos
     </div>
 </div>
 
-<h2 markdown="1" class="fw-bold mt-4">Les actualités du printemps de la poésie</h2>
+<h2 markdown="1" class="fw-bold mt-4">Les vidéos du printemps de la poésie</h2>
 
 ### Petite intro
 

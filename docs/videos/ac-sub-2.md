@@ -12,4 +12,4 @@ head_image: /assets/images/qi-gong/qi-large.png
 head_img_title: QI
 ---
 
-Ce compte-rendu reste à écrire.
+Vidéo  #2
