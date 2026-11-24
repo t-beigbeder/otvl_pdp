@@ -14,8 +14,8 @@ head_img_title: QI
 
 Vidéo # 1
 
-Essai de mise en page 
-A la ligne 
-Encore une ligne 
+Essai de mise en page  
+A la ligne  
+Encore une ligne  
 
 Paragraphe
