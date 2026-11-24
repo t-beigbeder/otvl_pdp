@@ -1,7 +1,7 @@
 ---
-ow_pratique: true
+ow_vidoes: true
 template: article.html
-url_fixed: /pratique/rentree2025/
+url_fixed: /videos/ac-sub-1/
 title: "Rentrée 2025"
 version: "1.0"
 publication_date: "2025/09/06"

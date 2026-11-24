@@ -1,6 +1,6 @@
 ---
-template: qi_gong_index.html
-title: QI-Gong
+template: actualites_index.html
+title: Actualités
 ---
 <div markdown="1" class="row">
     <div class="col-12">
@@ -8,4 +8,10 @@ title: QI-Gong
     </div>
 </div>
 
-<h2 markdown="1" class="fw-bold mt-4">Articles concernant le QI Gong</h2>
+<h2 markdown="1" class="fw-bold mt-4">Les actualités du printemps de la poésie</h2>
+
+### Petite intro
+
+ou pas
+
+### Actualités

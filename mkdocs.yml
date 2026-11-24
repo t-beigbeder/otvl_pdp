@@ -2,9 +2,8 @@ site_name: Poésie à Poucharramet
 site_favicon: images/favicon.ico
 nav:
   - actualites.md
-  - pratique.md
-  - acces-adherents.md
-  - a-propos.md
+  - textes.md
+  - videos.md
 theme:
   name: mkdocs
   nav_style: light
