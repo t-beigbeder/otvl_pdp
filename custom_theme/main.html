@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{%- block site_name %}
+<img class="img-fluid" src={{ "images/adq_brand_logo.jpg"|url }}>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a class="navbar-brand" href="{{ nav.homepage.url|url }}">{{ config.site_name }}</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+{%- endblock %}
+
+{%- block search_button %} {% endblock %}
+
+{%- block next_prev %} {% endblock %}
+
+{%- block repo %} {% endblock %}
+
+{%- block content %}
+    <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 mt-2">{% include "content.html" %}</div>
+    {%- block blog_index %}{% endblock %}
+{%- endblock %}
+
+{%- block footer %}
+<hr>
+<p><a href='{{ "mentions-legales"|url }}'>Mentions légales</a></p>
+{%- endblock %}
