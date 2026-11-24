@@ -1,5 +1,5 @@
 ---
-ow_pratique: true
+ow_actualites: true
 template: article.html
 url_fixed: /actualites/ac-sub-1/
 title: "Rentrée 2025"
