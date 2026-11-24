@@ -1,5 +1,5 @@
 ---
-ow_vidoes: true
+ow_videos: true
 template: article.html
 url_fixed: /videos/ac-sub-1/
 title: "Rentrée 2025"
